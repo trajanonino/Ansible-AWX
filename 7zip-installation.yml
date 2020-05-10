@@ -1,6 +1,0 @@
----
-  tasks:
-  - name: Manage 7zip
-    win_chocolatey:
-      name: 7zip.install
-      state: present
