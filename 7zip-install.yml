@@ -1,5 +1,4 @@
 ---
-- hosts: NEWPC
   gather_facts: no
   tasks:
   - name: Manage 7zip
